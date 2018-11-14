@@ -9,13 +9,13 @@ let WIDTH_MIN = Dimensions.get('window').width;
 
 var image = [
   
-     require('../user.png'),
-    require('../image1.jpg'),
-    require('../mypic.jpg'),
+     require('../images/user.png'),
+    require('../images/image1.jpg'),
+    require('../images/mypic.jpg'),
    
-    require('../audi.jpg'),
+    require('../images/audi.jpg'),
     
-    require('../user.png'),
+    require('../images/user.png'),
    ]
 
 
@@ -60,7 +60,7 @@ constructor(props){
         <Card style={{flex: 1}}>
             <CardItem style={{height:HEIGHT_MIN/7}}>
               <Left>
-                <Thumbnail circle source={require('../user.png')} style={{height: 60 ,width:60}}/>
+                <Thumbnail circle source={require('../images/user.png')} style={{height: 60 ,width:60}}/>
                 <Body>
                   <Text style={{fontSize: 18,color:'black'}}>User Name</Text>
                   <Text note>April 15, 2016</Text>

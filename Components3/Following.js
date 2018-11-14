@@ -9,18 +9,18 @@ let WIDTH_MIN = Dimensions.get('window').width;
 
 var image = [
   
-	require('../image5.jpg'),
-  require('../image10.jpeg'),
-  require('../audi.jpg'),
-     require('../image9.jpeg'),
-    require('../image1.jpg'),
-    require('../image3.jpg'),
+	require('../images/image5.jpg'),
+  require('../images/image10.jpeg'),
+  require('../images/audi.jpg'),
+     require('../images/image9.jpeg'),
+    require('../images/image1.jpg'),
+    require('../images/image3.jpg'),
     
-    require('../image10.jpeg'),
-     require('../image9.jpeg'),
-     require('../image8.jpeg'),
-      require('../image7.jpeg'),
-     require('../image6.jpeg'),
+    require('../images/image10.jpeg'),
+     require('../images/image9.jpeg'),
+     require('../images/image8.jpeg'),
+      require('../images/image7.jpeg'),
+     require('../images/image6.jpeg'),
    ]
 
 

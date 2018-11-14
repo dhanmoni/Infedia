@@ -94,7 +94,7 @@ export default class HomeScreen extends React.Component {
           			 <View style={{backgroundColor: '#fff',flex: 3,alignItems:'center',justifyContent:  'center',}}
                  >
 
-          			 			<Image source={require('../mypic.jpg')} 
+          			 			<Image source={require('../images/mypic.jpg')} 
           					style={{ width: IMG_WIDTH,height:IMG_HEIGHT, position: 'absolute',borderRadius: IMG_RADIUS,borderWidth:2, borderColor:'white'}} 
           			 />
 

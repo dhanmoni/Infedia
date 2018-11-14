@@ -61,7 +61,7 @@ export default class User extends React.Component {
           
                 <View  style={{flex:4,width:100+'%', height:100+'%',alignItems:'center',justifyContent:'center',paddingTop:10,paddingBottom: 15,borderBottomWidth:2,borderBottomColor:'#7f8c8d' }}>
 
-                    <Image source={require('../mypic.jpg')} style={{ width: IMG_WIDTH,height:IMG_HEIGHT,borderRadius: IMG_RADIUS,alignSelf: 'center',borderWidth:2, borderColor:'white'}}/>
+                    <Image source={require('../images/mypic.jpg')} style={{ width: IMG_WIDTH,height:IMG_HEIGHT,borderRadius: IMG_RADIUS,alignSelf: 'center',borderWidth:2, borderColor:'white'}}/>
                     <View><Text style={{color:'black',fontSize:24,marginTop:10,fontFamily:'Rufina-Regular'}}>User Name</Text></View>
                          
                     <View style={{flexDirection:'row',backgroundColor:'transparent',width:WIDTH_MIN/1.1,justifyContent:'space-between',marginTop:10}}>
