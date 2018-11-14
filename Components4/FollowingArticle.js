@@ -68,7 +68,7 @@ export default class FollowingArticle extends React.Component {
             </CardItem>
             <CardItem>
               <Left>
-                <Thumbnail circle source={require('../user.png')} style={{height: 60 ,width:60}}/>
+                <Thumbnail circle source={require('../images/user.png')} style={{height: 60 ,width:60}}/>
                 <Body>
                   <Text>NativeBase</Text>
                   <Text note>April 15, 2016</Text>
@@ -115,7 +115,7 @@ export default class FollowingArticle extends React.Component {
             </CardItem>
             <CardItem>
               <Left>
-                <Thumbnail circle source={require('../user.png')} style={{height: 60 ,width:60}}/>
+                <Thumbnail circle source={require('../images/user.png')} style={{height: 60 ,width:60}}/>
                 <Body>
                   <Text>NativeBase</Text>
                   <Text note>April 15, 2016</Text>
@@ -162,7 +162,7 @@ export default class FollowingArticle extends React.Component {
             </CardItem>
             <CardItem>
               <Left>
-                <Thumbnail circle source={require('../user.png')} style={{height: 60 ,width:60}}/>
+                <Thumbnail circle source={require('../images/user.png')} style={{height: 60 ,width:60}}/>
                 <Body>
                   <Text>NativeBase</Text>
                   <Text note>April 15, 2016</Text>
